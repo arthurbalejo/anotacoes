@@ -42,7 +42,7 @@ origin para criar apelido do endereço github
 #### para ver qual o origin que esta
 - 'git remote -v'
 #### agora é só colocar
-- 'git push origin <nome do branch>'
+- 'git push origin -nome do branch-'
 #### para clonar um projeto
 - 'git clone <link do projeto> <nome pasta que sera criada(opcional)>'
 #### para apagar uma pasta mesmo contendo arquivos
