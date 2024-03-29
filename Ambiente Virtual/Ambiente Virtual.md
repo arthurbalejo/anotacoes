@@ -1,6 +1,7 @@
 # para criacao
 'python -m venv venv'
 # para ativar
-'source venv/bin/activate'
+linux - 'source venv/bin/activate'
+windows - 'nomedavirtualenv\Scripts\activate'
 # para desativar
 'deactivate'
