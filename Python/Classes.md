@@ -1,3 +1,4 @@
+[[Python]]
 O desenvolvimento de uma aplicação envolve os mais diferentes tipos de informações, que são modeladas com estruturas que conhecemos como **classes**.
 
 A partir das classes é possível **criar objetos**, ou seja, uma classe é um “molde” para a criação de objetos.

@@ -1,3 +1,4 @@
+[[Python]]
 Uma das principais vantagens do conceito de orientação a objetos é a **utilização de estruturas sem a necessidade de conhecer como elas foram implementadas**.
 
 Para isso, o conceito de **encapsulamento de dados torna-se essencial**, pois envolve a **proteção dos atributos ou métodos de uma classe**.

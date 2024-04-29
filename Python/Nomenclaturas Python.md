@@ -1,3 +1,4 @@
+[[Python]]
 classes: 
 - Referente a caracteres, seguir o mesmo padrão de variáveis e objetos.
 - Sempre iniciar as classes com caracteres maiúsculos, inclusive as iniciais de nomes compostos:  

@@ -1,3 +1,4 @@
+[[Python]]
 # para criacao
 'python -m venv venv'
 # para ativar
