@@ -1,8 +1,15 @@
 [[Python]]
+
 # para criacao
-'python -m venv venv'
+
+```python -m venv venv```
+
 # para ativar
-linux - 'source venv/bin/activate'
-windows - 'nomedavirtualenv\Scripts\activate'
+
+linux - ```source venv/bin/activate```
+
+windows - ```nomedavirtualenv\Scripts\activate```
+
 # para desativar
-'deactivate'
+
+```deactivate```
