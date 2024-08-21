@@ -28,19 +28,28 @@ Objetos: todo objeto criado possui um código de identificação composto por um
 EXEMPLOS:
 
 Conta.py
+
+```
 class Conta:  
     def __init__(self, titular, numero, saldo):  
         self.saldo = 0  
         self.numero = numero  
         self.titular = titular
+```
 
 Cliente.py
+
+```
 class Cliente:  
     def __init__(self, n, fone):  
         self.nome = n  
         self.telefone = fone
 
+```
+
 Main.py
+
+```
 class Main:  
     pass  
   
@@ -52,3 +61,5 @@ c1 = Cliente("Joao", "114444-2222")
 conta = Conta(c1.nome, 6565, 0)  
   
 print(conta.titular, " Numero: ", conta.numero, " Seu Saldo: ", conta.saldo)
+
+```
