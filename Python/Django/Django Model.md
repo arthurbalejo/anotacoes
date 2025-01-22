@@ -1,6 +1,7 @@
 [[Python]]
 [[Banco de Dados]]
 
+
 ![[Pasted image 20240821085123.png]]
 
 ```
