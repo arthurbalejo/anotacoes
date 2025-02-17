@@ -1,4 +1,4 @@
-[[java]]
+[[Java]]
 
 para compilar escreva no terminal estando na pasta de origem
 

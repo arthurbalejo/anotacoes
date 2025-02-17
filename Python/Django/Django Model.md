@@ -1,4 +1,4 @@
-[[Python]]
+[[Django]]
 [[Banco de Dados]]
 
 

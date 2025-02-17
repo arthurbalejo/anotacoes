@@ -1,4 +1,4 @@
-[[Python]]
+[[Django]]
 
 Criando objetos
 

@@ -1,3 +1,5 @@
+[[Django]]
+
  ![[Pasted image 20240821090012.png]]
 
 ```
